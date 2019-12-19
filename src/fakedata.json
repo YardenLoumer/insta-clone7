@@ -1,0 +1,95 @@
+{
+    "posts": [
+        {
+            "user": {
+                "name": "Luba",
+                "family": "Lumer",
+                "image": "img/avatars/02.png"
+            },
+        
+            "content": {
+                "image": "img/posts/man-in-forest.jpg",
+                "description": "some description",
+                "tags": ["#forest", "#travel"]
+            },
+        
+            "comments": [{
+                "user": {
+                    "name": "John",
+                    "family": "Gohlt",
+                    "image": "img/avatars/01.png"
+                   },
+                "content": "great picture"
+                },
+
+                {
+                    "user": {
+                        "name": "Maria",
+                        "family": "Ivanova",
+                        "image": "img/avatars/02.png"
+                       },
+                    "content": "i don't like this picture"
+                },
+
+                {
+                    "user": {
+                        "name": "Peter",
+                        "family": "Smith",
+                        "image": "img/avatars/01.png"
+                       },
+                    "content": "who cares?"
+                }
+            ]
+        },
+
+
+        {
+            "user": {
+                "name": "Aleksey",
+                "family": "Danchin",
+                "image": "img/avatars/01.png"
+            },
+        
+            "content": {
+                "image": "img/posts/man-in-forest.jpg",
+                "description": "some description",
+                "tags": ["#forest", "#travel"]
+            },
+        
+            "comments": [{
+                "user": {
+                    "name": "John",
+                    "family": "Gohlt",
+                    "image": "img/avatars/01.png"
+                   },
+                "content": "some crazy comment"
+                }
+            ]
+        },
+
+        {
+            "user": {
+                "name": "Lu",
+                "family": "Lu",
+                "image": "img/avatars/01.png"
+            },
+        
+            "content": {
+                "image": "img/posts/girl-pc.jpg",
+                "description": "some description",
+                "tags": ["#forest", "#travel"]
+            },
+        
+            "comments": [{
+                "user": {
+                    "name": "John",
+                    "family": "Gohlt",
+                    "image": "img/avatars/01.png"
+                   },
+                "content": "some stupid comment"
+                }
+            ]
+        }
+    ]
+
+}
