@@ -1,0 +1,48 @@
+{
+
+    "posts": [
+        {
+            "id": 1,
+            "src": "img/posts/man-in-forest.jpg",
+            "description": "some description",
+            "tags": ["#forest", "#travel", "#journey", "#holiday"],
+            "user": {
+                "ava": "img/avatars/01.png",
+                "name": "Alex",
+                "surname": "Alex"
+            },
+
+            "comments": [{
+                "id": 1,
+                "content": "some comment",
+                "user": {
+                    "ava": "img/avatars/02.png",
+                    "name": "Lu",
+                    "surname": "Lu"
+                }
+            }]
+        },
+
+        {
+            "id": 2,
+            "src": "img/posts/girl-pc.jpg",
+            "description": "some description",
+            "tags": ["#forest", "#travel", "#journey", "#holiday"],
+            "user": {
+                "ava": "img/avatars/01.png",
+                "name": "Alex",
+                "surname": "Alex"
+            },
+
+            "comments": [{
+                "id": 1,
+                "content": "some comment",
+                "user": {
+                    "ava": "img/avatars/01.png",
+                    "name": "Lu",
+                    "surname": "Lu"
+                }
+            }]
+        }
+    ]
+}
